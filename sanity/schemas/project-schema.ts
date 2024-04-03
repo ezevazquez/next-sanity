@@ -30,11 +30,11 @@ const project = {
             }
             ] 
         },
-        // {
-        //     name: 'url',
-        //     titile: 'URL',
-        //     type: 'url'
-        // },
+        {
+            name: 'url',
+            titile: 'URL',
+            type: 'url'
+        },
         {
             name: 'content',
             titile: 'Content',
