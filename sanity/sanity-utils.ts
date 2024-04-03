@@ -18,7 +18,6 @@ export async function getProjects(): Promise<Project[]> {
         url,
         content
     }`,
-    // Utiliza las opciones de filtro para la revalidación
     { revalidate: 900 } 
   );
 }
