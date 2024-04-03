@@ -17,7 +17,6 @@ export async function getProjects(): Promise<Project[]> {
         "image": image.asset->url,
         url,
         content
-    }`,
-    { revalidate: 900 } 
+    }`
   );
 }
