@@ -3,8 +3,8 @@ import { title } from "process";
 import { fieldNeedsEscape } from "sanity";
 
 const project = {
-    name: 'project',
-    title: 'Projects',
+    name: 'jesi photos',
+    title: 'Jesi Photos',
     type: 'document',
     fields: [
         {
