@@ -1,4 +1,3 @@
-// sanity-utils.ts
 import { Project } from "@/types/Project";
 import { createClient, groq } from "next-sanity";
 
