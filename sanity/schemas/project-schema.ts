@@ -1,7 +1,3 @@
-import { hostname } from "os";
-import { title } from "process";
-import { fieldNeedsEscape } from "sanity";
-
 const project = {
     name: 'project',
     title: 'Projects',
